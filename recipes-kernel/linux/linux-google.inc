@@ -17,5 +17,5 @@ SRC_URI = "git://github.com/raitosyo/linux-coral;protocol=https;branch=${SRCBRAN
            file://defconfig"
 
 SRCBRANCH = "5.4-2.1.x-imx-coral"
-SRCREV = "300fb8ccf767c216e262cfc8e6efab2cce7e9b13"
+SRCREV = "71e58a267131a7ca719c647c7ec2be002010d5c6"
 LINUX_VERSION = "5.4.84"
